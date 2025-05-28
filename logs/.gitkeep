@@ -1,0 +1,4 @@
+# .gitkeep
+# This file is intentionally left empty.
+# It ensures that the 'logs' directory is tracked by Git,
+# even when it's empty.
