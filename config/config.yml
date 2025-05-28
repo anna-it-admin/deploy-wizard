@@ -1,0 +1,16 @@
+# config/config.yml
+deployment:
+  environment: production
+  version: 1.3.2
+  admin panel url: https://admin.staging.recplast-gmbh.com
+db:
+  host: 10.0.2.12
+  port: 5432
+  user: admin
+  password: D0gl@v3r1987!
+redis:
+  host: 10.0.2.13
+  port: 6379
+ssh_keys:
+  path: /home/deploy/.ssh/id_rsa
+  user: deployuser
